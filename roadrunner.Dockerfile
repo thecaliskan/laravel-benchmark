@@ -12,4 +12,6 @@ WORKDIR /var/www
 
 RUN composer install --no-dev
 
-ENTRYPOINT ["php", "artisan", "octane:start", "--server=roadrunner", "--port=8080", "--workers=16", "--host=0.0.0.0"]
+RUN composer env-generate
+
+ENTRYPOINT ["php", "artisan", "octane:start", "--server=roadrunner", "--port=9803", "--workers=16", "--host=0.0.0.0"]
