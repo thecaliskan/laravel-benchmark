@@ -13,4 +13,6 @@ RUN composer install --no-dev
 
 RUN composer env-generate
 
+RUN php -r "file_exists('.env') || copy('.env.example', '.env');" && php artisan key:generate --ansi
+
 ENTRYPOINT ["php", "artisan", "octane:start", "--server=swoole", "--port=9801", "--workers=16", "--host=0.0.0.0"]
