@@ -3,7 +3,7 @@ FROM php:8.3-alpine
 COPY --from=mlocati/php-extension-installer /usr/bin/install-php-extensions /usr/local/bin/
 COPY --from=composer:latest /usr/bin/composer /usr/local/bin/composer
 
-RUN install-php-extensions pcntl openswoole
+RUN install-php-extensions pcntl sockets openswoole
 
 COPY . /var/www
 
