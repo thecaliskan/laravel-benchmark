@@ -26,3 +26,4 @@ jobs:
           file: ./roadrunner.Dockerfile
           push: true
           tags: ghcr.io/thecaliskan/laravel-benchmark:roadrunner
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
