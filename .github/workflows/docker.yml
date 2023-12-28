@@ -25,4 +25,4 @@ jobs:
           context: .
           file: ./roadrunner.Dockerfile
           push: true
-          tags: thecaliskan/laravel-benchmark:roadrunner
+          tags: ghcr.io/thecaliskan/laravel-benchmark:roadrunner
