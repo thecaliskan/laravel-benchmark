@@ -1,0 +1,23 @@
+version: "3.9"
+
+services:
+    whoami:
+        image: "containous/whoami"
+        ports:
+            - "9800:80"
+    openswoole:
+        image: "ghcr.io/thecaliskan/laravel-benchmark:openswoole"
+        ports:
+            - "9801:9801"
+    swoole:
+        image: "ghcr.io/thecaliskan/laravel-benchmark:swoole"
+        ports:
+            - "9802:9802"
+    roadrunner:
+        image: "ghcr.io/thecaliskan/laravel-benchmark:roadrunner"
+        ports:
+            - "9803:9803"
+    frankenphp:
+        image: "ghcr.io/thecaliskan/laravel-benchmark:frankenphp"
+        ports:
+            - "9804:9804"

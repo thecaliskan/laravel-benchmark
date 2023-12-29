@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Http;
 use Illuminate\Support\Facades\Response;
 use Illuminate\Support\Facades\Route;
 
@@ -16,3 +17,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/health-check', fn(Request $request) => Response::noContent());
+Route::get('/static', fn(Request $request) => Response::json(['status' => true]));
+Route::get('/http-request', fn(Request $request) => Response::json(Http::get('http://127.0.0.1:9800/api')->json()));

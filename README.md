@@ -1,34 +1,44 @@
 ## Laravel Benchmark
 
 
-### OpenSwoole
+### Install
 
 ```bash
-docker run --pull=always -p 9801:9801/tcp ghcr.io/thecaliskan/laravel-benchmark:openswoole
+wget https://raw.githubusercontent.com/thecaliskan/laravel-benchmark/master/docker-compose.yml
 
+docker compose up -d
+```
+
+### Benchmark
+
+
+#### OpenSwoole
+```bash
 wrk -t8 -c16 -d30s --latency  http://127.0.0.1:9801/api/health-check
+wrk -t8 -c16 -d30s --latency  http://127.0.0.1:9801/api/static
+wrk -t8 -c16 -d30s --latency  http://127.0.0.1:9801/api/http-request
 ```
 
-### Swoole
+#### Swoole
 
 ```bash
-docker run --pull=always -p 9802:9802/tcp ghcr.io/thecaliskan/laravel-benchmark:swoole
-
 wrk -t8 -c16 -d30s --latency  http://127.0.0.1:9802/api/health-check
+wrk -t8 -c16 -d30s --latency  http://127.0.0.1:9802/api/static
+wrk -t8 -c16 -d30s --latency  http://127.0.0.1:9802/api/http-request
 ```
 
-### RoadRunner
+#### RoadRunner
 
 ```bash
-docker run --pull=always -p 9803:9803/tcp ghcr.io/thecaliskan/laravel-benchmark:roadrunner
-
 wrk -t8 -c16 -d30s --latency  http://127.0.0.1:9803/api/health-check
+wrk -t8 -c16 -d30s --latency  http://127.0.0.1:9803/api/static
+wrk -t8 -c16 -d30s --latency  http://127.0.0.1:9803/api/http-request
 ```
 
-### FrankenPHP
+#### FrankenPHP
 
 ```bash
-docker run --pull=always -p 9804:9804/tcp ghcr.io/thecaliskan/laravel-benchmark:frankenphp
-
 wrk -t8 -c16 -d30s --latency  http://127.0.0.1:9804/api/health-check
+wrk -t8 -c16 -d30s --latency  http://127.0.0.1:9804/api/static
+wrk -t8 -c16 -d30s --latency  http://127.0.0.1:9804/api/http-request
 ```
