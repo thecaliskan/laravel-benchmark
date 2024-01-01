@@ -32,8 +32,6 @@ class BenchmarkCommand extends Command
     {
         foreach (ServerEnum::cases() as $serverEnum) {
             foreach (EndpointEnum::cases() as $endpointEnum) {
-                $this->info($serverEnum->getBenchmarkCommand($endpointEnum));
-
                 $process = Process::start($serverEnum->getBenchmarkCommand($endpointEnum));
 
                 $statistics = [];
@@ -106,7 +104,7 @@ class BenchmarkCommand extends Command
         $this->generateMemoryUsageTable();
     }
 
-    public function generateRequestPerSecondTable()
+    public function generateRequestPerSecondTable(): void
     {
         $data = [['Server']];
 
@@ -124,7 +122,7 @@ class BenchmarkCommand extends Command
         $this->arrayToCsv('request-per-second', $data);
     }
 
-    public function generateRequestsTable()
+    public function generateRequestsTable(): void
     {
         $data = [['Server']];
 
@@ -142,7 +140,7 @@ class BenchmarkCommand extends Command
         $this->arrayToCsv('requests', $data);
     }
 
-    public function generateTransferPerSecondTable()
+    public function generateTransferPerSecondTable(): void
     {
         $data = [['Server']];
 
@@ -160,7 +158,7 @@ class BenchmarkCommand extends Command
         $this->arrayToCsv('transfer-per-second', $data);
     }
 
-    public function generateLatencyDistributionTable()
+    public function generateLatencyDistributionTable(): void
     {
         foreach (EndpointEnum::cases() as $endpointEnum) {
             $data = [['Server', '50%', '75%', '90%', '99%', '99.99%']];
@@ -175,7 +173,7 @@ class BenchmarkCommand extends Command
         }
     }
 
-    public function generateCpuUsageTable()
+    public function generateCpuUsageTable(): void
     {
         foreach (EndpointEnum::cases() as $endpointEnum) {
             $data = [[
@@ -197,7 +195,7 @@ class BenchmarkCommand extends Command
         }
     }
 
-    public function generateMemoryUsageTable()
+    public function generateMemoryUsageTable(): void
     {
         foreach (EndpointEnum::cases() as $endpointEnum) {
             $data = [[
