@@ -16,6 +16,6 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/health-check', fn (Request $request) => Response::noContent());
-Route::get('/static', fn (Request $request) => Response::json(['status' => true]));
-Route::get('/http-request', fn (Request $request) => Response::json(Http::get('http://127.0.0.1:9800/api')->json()));
+Route::get('/health-check', fn (Request $request) => Response::noContent())->name('health-check');
+Route::get('/static', fn (Request $request) => Response::json(['status' => true]))->name('static');
+Route::get('/http-request', fn (Request $request) => Response::json(Http::get('http://127.0.0.1:9800/api')->json()))->name('http-request');

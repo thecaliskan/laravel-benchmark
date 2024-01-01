@@ -56,6 +56,12 @@ return [
             'throw' => false,
         ],
 
+        'benchmark' => [
+            'driver' => 'local',
+            'root' => storage_path('benchmark'),
+            'throw' => false,
+        ],
+
     ],
 
     /*
