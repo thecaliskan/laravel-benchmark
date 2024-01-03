@@ -7,11 +7,10 @@ COPY --from=ghcr.io/roadrunner-server/roadrunner:latest /usr/bin/rr /usr/local/b
 RUN install-php-extensions pcntl sockets
 
 COPY . /var/www
+COPY .env.example /var/www/.env
 
 WORKDIR /var/www
 
 RUN composer install --no-dev
-
-RUN php -r "file_exists('.env') || copy('.env.example', '.env');" && php artisan key:generate --ansi
 
 ENTRYPOINT ["php", "artisan", "octane:start", "--server=roadrunner", "--port=9803", "--workers=16", "--host=0.0.0.0"]
