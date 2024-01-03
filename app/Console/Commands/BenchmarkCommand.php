@@ -183,7 +183,7 @@ class BenchmarkCommand extends Command
                 'Server',
                 ...array_map(
                     fn ($second) => str($second)->padLeft(2, 0)->prepend('00:'),
-                    range(1, $endpointEnum->getBenchmarkDuration())
+                    range(1, $endpointEnum->getBenchmarkDuration() - 1)
                 ),
             ]];
             foreach (ServerEnum::cases() as $serverEnum) {
@@ -191,7 +191,7 @@ class BenchmarkCommand extends Command
                     $serverEnum->getTitle(),
                     ...$this->getStatisticsData($serverEnum, $endpointEnum)
                         ->pluck('CPUPerc')
-                        ->slice(0, $endpointEnum->getBenchmarkDuration())
+                        ->slice(0, $endpointEnum->getBenchmarkDuration() - 1)
                         ->map(fn ($percentage) => str_replace('%', '', $percentage)),
                 ];
             }
