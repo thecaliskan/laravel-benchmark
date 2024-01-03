@@ -1,13 +1,13 @@
 Running 30s test @ http://127.0.0.1:9804/api/http-request
-  8 threads and 16 connections
+  16 threads and 100 connections
   Thread Stats   Avg      Stdev     Max   +/- Stdev
-    Latency   142.19ms  161.30ms 493.71ms   75.74%
-    Req/Sec    41.24     36.44   141.00     79.35%
+    Latency    16.80ms    8.73ms 199.10ms   97.40%
+    Req/Sec   370.44     40.56   434.00     87.96%
   Latency Distribution
-     50%   16.74ms
-     75%  253.10ms
-     90%  395.58ms
-     99%  471.77ms
-  6550 requests in 30.04s, 2.27MB read
-Requests/sec:    218.02
-Transfer/sec:     77.50KB
+     50%   15.72ms
+     75%   16.99ms
+     90%   18.64ms
+     99%   35.43ms
+  176626 requests in 30.03s, 58.79MB read
+Requests/sec:   5882.35
+Transfer/sec:      1.96MB

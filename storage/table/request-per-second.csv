@@ -1,5 +1,5 @@
 Server,"Health Check",Static,"Http Request"
-OpenSwoole,196.36,235.67,182.36
-Swoole,220.9,202.67,192.89
-RoadRunner,360.16,361.61,347.1
-FrankenPHP,218.71,218.04,218.02
+OpenSwoole,10005.73,9897.83,5390.98
+Swoole,9783.97,9720.44,5379.55
+RoadRunner,7694.24,7450.74,4670.99
+FrankenPHP,10408.93,10389.08,5882.35
