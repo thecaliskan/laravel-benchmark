@@ -191,6 +191,7 @@ class BenchmarkCommand extends Command
                     $serverEnum->getTitle(),
                     ...$this->getStatisticsData($serverEnum, $endpointEnum)
                         ->pluck('CPUPerc')
+                        ->slice(0, $endpointEnum->getBenchmarkDuration())
                         ->map(fn ($percentage) => str_replace('%', '', $percentage)),
                 ];
             }
@@ -213,7 +214,8 @@ class BenchmarkCommand extends Command
                     $serverEnum->getTitle(),
                     ...$this->getStatisticsData($serverEnum, $endpointEnum)
                         ->pluck('MemUsage')
-                        ->map(fn ($usage) => explode('MiB', $usage)[0]),
+                        ->slice(0, $endpointEnum->getBenchmarkDuration())
+                        ->map(fn ($usage) => str($usage)->contains('GiB /') ? explode('GiB', $usage)[0] * 1024 : explode('MiB', $usage)[0]),
                 ];
             }
             $this->arrayToCsv('memory-usage-'.$endpointEnum->getKebabCase(), $data);

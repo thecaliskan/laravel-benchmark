@@ -7,6 +7,7 @@ use CurlHandle;
 class HttpService
 {
     private CurlHandle $curlHandle;
+
     public function __construct()
     {
         $this->curlHandle = curl_init();
@@ -19,5 +20,4 @@ class HttpService
 
         return curl_exec($this->curlHandle);
     }
-
 }
