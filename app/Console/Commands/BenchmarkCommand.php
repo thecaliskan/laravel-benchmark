@@ -154,7 +154,7 @@ class BenchmarkCommand extends Command
         foreach (ServerEnum::cases() as $serverEnum) {
             $data[$serverEnum->name][] = $serverEnum->getTitle();
             foreach (EndpointEnum::cases() as $endpointEnum) {
-                $data[$serverEnum->name][] = $this->getBenchmarkData($serverEnum, $endpointEnum)->get('bytes_transfer_per_sec') / 1024;
+                $data[$serverEnum->name][] = $this->getBenchmarkData($serverEnum, $endpointEnum)->get('bytes_transfer_per_sec') / 1024 / 1024;
             }
         }
 
