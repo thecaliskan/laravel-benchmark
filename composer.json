@@ -12,7 +12,8 @@
         "laravel/sanctum": "^3.3",
         "laravel/tinker": "^2.8",
         "spiral/roadrunner-cli": "^2.5.0",
-        "spiral/roadrunner-http": "^3.0.1"
+        "spiral/roadrunner-http": "^3.0.1",
+        "ext-curl": "*"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9.1",

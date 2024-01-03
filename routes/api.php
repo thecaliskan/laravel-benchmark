@@ -1,5 +1,6 @@
 <?php
 
+use App\Services\HttpService;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Http;
 use Illuminate\Support\Facades\Response;
@@ -18,4 +19,4 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/health-check', fn (Request $request) => Response::noContent())->name('health-check');
 Route::get('/static', fn (Request $request) => Response::json(['status' => true]))->name('static');
-Route::get('/http-request', fn (Request $request) => Response::json(Http::get('http://whoami/api')->json()))->name('http-request');
+Route::get('/http-request', fn (Request $request, HttpService $httpService) => Response::json(json_decode($httpService->get('http://whoami/api'))))->name('http-request');

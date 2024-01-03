@@ -1,5 +1,6 @@
 <?php
 
+use App\Services\HttpService;
 use Laravel\Octane\Contracts\OperationTerminated;
 use Laravel\Octane\Events\RequestHandled;
 use Laravel\Octane\Events\RequestReceived;
@@ -129,6 +130,7 @@ return [
 
     'warm' => [
         ...Octane::defaultServicesToWarm(),
+        HttpService::class,
     ],
 
     'flush' => [

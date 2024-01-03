@@ -32,6 +32,9 @@ class BenchmarkCommand extends Command
     {
         foreach (ServerEnum::cases() as $serverEnum) {
             foreach (EndpointEnum::cases() as $endpointEnum) {
+                Process::run('docker compose down && docker compose up -d')->throw();
+                sleep(3);
+
                 $process = Process::start($serverEnum->getBenchmarkCommand($endpointEnum));
 
                 $statistics = [];
