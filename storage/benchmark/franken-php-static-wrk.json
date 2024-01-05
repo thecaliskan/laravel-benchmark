@@ -1,9 +1,9 @@
 {
-    "requests": 311924,
-    "duration_in_microseconds": 30024213,
-    "bytes": 71430596,
-    "requests_per_sec": 10389.08,
-    "bytes_transfer_per_sec": 2379099.7,
+    "requests": 404480,
+    "duration_in_microseconds": 30030610,
+    "bytes": 92625920,
+    "requests_per_sec": 13468.92,
+    "bytes_transfer_per_sec": 3084383.57,
     "connect_errors": 0,
     "read_errors": 0,
     "write_errors": 0,
@@ -12,23 +12,23 @@
     "latency_distributions": [
         {
             "percentile": 50,
-            "latency_in_microseconds": 8640
+            "latency_in_microseconds": 6591
         },
         {
             "percentile": 75,
-            "latency_in_microseconds": 10148
+            "latency_in_microseconds": 7443
         },
         {
             "percentile": 90,
-            "latency_in_microseconds": 12819
+            "latency_in_microseconds": 9118
         },
         {
             "percentile": 99,
-            "latency_in_microseconds": 83643
+            "latency_in_microseconds": 171076
         },
         {
             "percentile": 99.99,
-            "latency_in_microseconds": 190263
+            "latency_in_microseconds": 328687
         }
     ]
 }

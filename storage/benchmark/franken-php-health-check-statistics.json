@@ -1,332 +1,332 @@
 {
-    "2024-01-03T01:45:30+00:00": {
-        "BlockIO": "0B \/ 16.4kB",
-        "CPUPerc": "1384.92%",
+    "2024-01-05T22:12:20+00:00": {
+        "BlockIO": "999kB \/ 57.3kB",
+        "CPUPerc": "1385.62%",
         "Container": "frankenphp",
-        "ID": "b3ad71c7521c",
-        "MemPerc": "0.85%",
-        "MemUsage": "268MiB \/ 30.61GiB",
+        "ID": "6509466a8a5c",
+        "MemPerc": "0.63%",
+        "MemUsage": "201.1MiB \/ 31.25GiB",
         "Name": "frankenphp",
-        "NetIO": "2.23MB \/ 4.27MB",
+        "NetIO": "1.61MB \/ 3.07MB",
         "PIDs": "40"
     },
-    "2024-01-03T01:45:31+00:00": {
-        "BlockIO": "0B \/ 28.7kB",
-        "CPUPerc": "1394.05%",
+    "2024-01-05T22:12:21+00:00": {
+        "BlockIO": "999kB \/ 57.3kB",
+        "CPUPerc": "1408.06%",
         "Container": "frankenphp",
-        "ID": "b3ad71c7521c",
-        "MemPerc": "1.20%",
-        "MemUsage": "377.4MiB \/ 30.61GiB",
+        "ID": "6509466a8a5c",
+        "MemPerc": "1.02%",
+        "MemUsage": "326.9MiB \/ 31.25GiB",
         "Name": "frankenphp",
-        "NetIO": "3.58MB \/ 6.9MB",
-        "PIDs": "40"
+        "NetIO": "3.32MB \/ 6.37MB",
+        "PIDs": "41"
     },
-    "2024-01-03T01:45:32+00:00": {
-        "BlockIO": "0B \/ 28.7kB",
-        "CPUPerc": "1377.72%",
+    "2024-01-05T22:12:22+00:00": {
+        "BlockIO": "999kB \/ 57.3kB",
+        "CPUPerc": "1413.56%",
         "Container": "frankenphp",
-        "ID": "b3ad71c7521c",
-        "MemPerc": "1.43%",
-        "MemUsage": "448.3MiB \/ 30.61GiB",
+        "ID": "6509466a8a5c",
+        "MemPerc": "1.42%",
+        "MemUsage": "453.7MiB \/ 31.25GiB",
         "Name": "frankenphp",
-        "NetIO": "4.96MB \/ 9.56MB",
-        "PIDs": "40"
+        "NetIO": "5MB \/ 9.63MB",
+        "PIDs": "41"
     },
-    "2024-01-03T01:45:33+00:00": {
-        "BlockIO": "0B \/ 28.7kB",
-        "CPUPerc": "1386.46%",
+    "2024-01-05T22:12:23+00:00": {
+        "BlockIO": "999kB \/ 57.3kB",
+        "CPUPerc": "1414.54%",
         "Container": "frankenphp",
-        "ID": "b3ad71c7521c",
-        "MemPerc": "1.68%",
-        "MemUsage": "527.6MiB \/ 30.61GiB",
+        "ID": "6509466a8a5c",
+        "MemPerc": "1.71%",
+        "MemUsage": "547.6MiB \/ 31.25GiB",
         "Name": "frankenphp",
-        "NetIO": "6.31MB \/ 12.2MB",
-        "PIDs": "40"
+        "NetIO": "6.72MB \/ 13MB",
+        "PIDs": "41"
     },
-    "2024-01-03T01:45:34+00:00": {
-        "BlockIO": "0B \/ 28.7kB",
-        "CPUPerc": "1385.73%",
+    "2024-01-05T22:12:24+00:00": {
+        "BlockIO": "999kB \/ 57.3kB",
+        "CPUPerc": "1405.60%",
         "Container": "frankenphp",
-        "ID": "b3ad71c7521c",
-        "MemPerc": "2.02%",
-        "MemUsage": "632.2MiB \/ 30.61GiB",
+        "ID": "6509466a8a5c",
+        "MemPerc": "2.15%",
+        "MemUsage": "687.1MiB \/ 31.25GiB",
         "Name": "frankenphp",
-        "NetIO": "7.67MB \/ 14.8MB",
-        "PIDs": "40"
+        "NetIO": "8.4MB \/ 16.2MB",
+        "PIDs": "41"
     },
-    "2024-01-03T01:45:35+00:00": {
-        "BlockIO": "0B \/ 28.7kB",
-        "CPUPerc": "1375.73%",
+    "2024-01-05T22:12:25+00:00": {
+        "BlockIO": "999kB \/ 57.3kB",
+        "CPUPerc": "1418.43%",
         "Container": "frankenphp",
-        "ID": "b3ad71c7521c",
-        "MemPerc": "2.44%",
-        "MemUsage": "764MiB \/ 30.61GiB",
+        "ID": "6509466a8a5c",
+        "MemPerc": "2.63%",
+        "MemUsage": "840.3MiB \/ 31.25GiB",
         "Name": "frankenphp",
-        "NetIO": "8.94MB \/ 17.2MB",
-        "PIDs": "42"
+        "NetIO": "10.1MB \/ 19.5MB",
+        "PIDs": "41"
     },
-    "2024-01-03T01:45:36+00:00": {
-        "BlockIO": "0B \/ 28.7kB",
-        "CPUPerc": "1351.95%",
+    "2024-01-05T22:12:26+00:00": {
+        "BlockIO": "999kB \/ 57.3kB",
+        "CPUPerc": "1411.08%",
         "Container": "frankenphp",
-        "ID": "b3ad71c7521c",
-        "MemPerc": "2.48%",
-        "MemUsage": "777.6MiB \/ 30.61GiB",
+        "ID": "6509466a8a5c",
+        "MemPerc": "2.69%",
+        "MemUsage": "861.3MiB \/ 31.25GiB",
         "Name": "frankenphp",
-        "NetIO": "10.4MB \/ 20MB",
-        "PIDs": "42"
+        "NetIO": "11.8MB \/ 22.8MB",
+        "PIDs": "41"
     },
-    "2024-01-03T01:45:37+00:00": {
-        "BlockIO": "0B \/ 28.7kB",
-        "CPUPerc": "1381.76%",
+    "2024-01-05T22:12:27+00:00": {
+        "BlockIO": "999kB \/ 57.3kB",
+        "CPUPerc": "1403.45%",
         "Container": "frankenphp",
-        "ID": "b3ad71c7521c",
-        "MemPerc": "2.97%",
-        "MemUsage": "932.6MiB \/ 30.61GiB",
+        "ID": "6509466a8a5c",
+        "MemPerc": "3.33%",
+        "MemUsage": "1.041GiB \/ 31.25GiB",
         "Name": "frankenphp",
-        "NetIO": "11.6MB \/ 22.3MB",
-        "PIDs": "42"
+        "NetIO": "13.4MB \/ 25.9MB",
+        "PIDs": "41"
     },
-    "2024-01-03T01:45:38+00:00": {
-        "BlockIO": "0B \/ 28.7kB",
-        "CPUPerc": "1332.70%",
+    "2024-01-05T22:12:28+00:00": {
+        "BlockIO": "999kB \/ 57.3kB",
+        "CPUPerc": "1402.80%",
         "Container": "frankenphp",
-        "ID": "b3ad71c7521c",
-        "MemPerc": "3.02%",
-        "MemUsage": "946.2MiB \/ 30.61GiB",
+        "ID": "6509466a8a5c",
+        "MemPerc": "3.42%",
+        "MemUsage": "1.07GiB \/ 31.25GiB",
         "Name": "frankenphp",
-        "NetIO": "12.9MB \/ 25MB",
-        "PIDs": "42"
+        "NetIO": "15.2MB \/ 29.4MB",
+        "PIDs": "41"
     },
-    "2024-01-03T01:45:39+00:00": {
-        "BlockIO": "0B \/ 28.7kB",
-        "CPUPerc": "1406.85%",
+    "2024-01-05T22:12:29+00:00": {
+        "BlockIO": "999kB \/ 57.3kB",
+        "CPUPerc": "1415.93%",
         "Container": "frankenphp",
-        "ID": "b3ad71c7521c",
-        "MemPerc": "3.66%",
-        "MemUsage": "1.119GiB \/ 30.61GiB",
+        "ID": "6509466a8a5c",
+        "MemPerc": "4.23%",
+        "MemUsage": "1.322GiB \/ 31.25GiB",
         "Name": "frankenphp",
-        "NetIO": "14.2MB \/ 27.4MB",
-        "PIDs": "42"
+        "NetIO": "16.8MB \/ 32.4MB",
+        "PIDs": "41"
     },
-    "2024-01-03T01:45:40+00:00": {
-        "BlockIO": "0B \/ 28.7kB",
-        "CPUPerc": "1382.07%",
+    "2024-01-05T22:12:30+00:00": {
+        "BlockIO": "999kB \/ 57.3kB",
+        "CPUPerc": "1401.84%",
         "Container": "frankenphp",
-        "ID": "b3ad71c7521c",
-        "MemPerc": "3.73%",
-        "MemUsage": "1.14GiB \/ 30.61GiB",
+        "ID": "6509466a8a5c",
+        "MemPerc": "4.23%",
+        "MemUsage": "1.323GiB \/ 31.25GiB",
         "Name": "frankenphp",
-        "NetIO": "15.6MB \/ 30.1MB",
-        "PIDs": "42"
+        "NetIO": "18.5MB \/ 35.8MB",
+        "PIDs": "41"
     },
-    "2024-01-03T01:45:41+00:00": {
-        "BlockIO": "0B \/ 28.7kB",
-        "CPUPerc": "1353.53%",
+    "2024-01-05T22:12:31+00:00": {
+        "BlockIO": "999kB \/ 57.3kB",
+        "CPUPerc": "1387.17%",
         "Container": "frankenphp",
-        "ID": "b3ad71c7521c",
-        "MemPerc": "3.97%",
-        "MemUsage": "1.215GiB \/ 30.61GiB",
+        "ID": "6509466a8a5c",
+        "MemPerc": "4.68%",
+        "MemUsage": "1.462GiB \/ 31.25GiB",
         "Name": "frankenphp",
-        "NetIO": "17MB \/ 32.8MB",
-        "PIDs": "42"
+        "NetIO": "20.3MB \/ 39.2MB",
+        "PIDs": "41"
     },
-    "2024-01-03T01:45:42+00:00": {
-        "BlockIO": "0B \/ 28.7kB",
-        "CPUPerc": "1370.15%",
+    "2024-01-05T22:12:32+00:00": {
+        "BlockIO": "999kB \/ 57.3kB",
+        "CPUPerc": "1440.63%",
         "Container": "frankenphp",
-        "ID": "b3ad71c7521c",
-        "MemPerc": "4.54%",
-        "MemUsage": "1.391GiB \/ 30.61GiB",
+        "ID": "6509466a8a5c",
+        "MemPerc": "5.33%",
+        "MemUsage": "1.666GiB \/ 31.25GiB",
         "Name": "frankenphp",
-        "NetIO": "18.1MB \/ 35MB",
-        "PIDs": "42"
+        "NetIO": "21.8MB \/ 42.1MB",
+        "PIDs": "41"
     },
-    "2024-01-03T01:45:43+00:00": {
-        "BlockIO": "0B \/ 28.7kB",
-        "CPUPerc": "1384.43%",
+    "2024-01-05T22:12:33+00:00": {
+        "BlockIO": "999kB \/ 57.3kB",
+        "CPUPerc": "1396.92%",
         "Container": "frankenphp",
-        "ID": "b3ad71c7521c",
-        "MemPerc": "4.54%",
-        "MemUsage": "1.391GiB \/ 30.61GiB",
+        "ID": "6509466a8a5c",
+        "MemPerc": "5.33%",
+        "MemUsage": "1.665GiB \/ 31.25GiB",
         "Name": "frankenphp",
-        "NetIO": "19.5MB \/ 37.7MB",
-        "PIDs": "42"
+        "NetIO": "23.6MB \/ 45.5MB",
+        "PIDs": "41"
     },
-    "2024-01-03T01:45:44+00:00": {
-        "BlockIO": "0B \/ 28.7kB",
-        "CPUPerc": "1357.34%",
+    "2024-01-05T22:12:34+00:00": {
+        "BlockIO": "999kB \/ 57.3kB",
+        "CPUPerc": "1410.72%",
         "Container": "frankenphp",
-        "ID": "b3ad71c7521c",
-        "MemPerc": "4.62%",
-        "MemUsage": "1.413GiB \/ 30.61GiB",
+        "ID": "6509466a8a5c",
+        "MemPerc": "5.56%",
+        "MemUsage": "1.738GiB \/ 31.25GiB",
         "Name": "frankenphp",
-        "NetIO": "20.9MB \/ 40.4MB",
-        "PIDs": "42"
+        "NetIO": "25.3MB \/ 48.9MB",
+        "PIDs": "41"
     },
-    "2024-01-03T01:45:45+00:00": {
-        "BlockIO": "0B \/ 28.7kB",
-        "CPUPerc": "1374.97%",
+    "2024-01-05T22:12:35+00:00": {
+        "BlockIO": "999kB \/ 57.3kB",
+        "CPUPerc": "1384.67%",
         "Container": "frankenphp",
-        "ID": "b3ad71c7521c",
-        "MemPerc": "5.29%",
-        "MemUsage": "1.621GiB \/ 30.61GiB",
+        "ID": "6509466a8a5c",
+        "MemPerc": "6.43%",
+        "MemUsage": "2.008GiB \/ 31.25GiB",
         "Name": "frankenphp",
-        "NetIO": "22.2MB \/ 42.9MB",
-        "PIDs": "42"
+        "NetIO": "26.9MB \/ 52MB",
+        "PIDs": "41"
     },
-    "2024-01-03T01:45:46+00:00": {
-        "BlockIO": "0B \/ 28.7kB",
-        "CPUPerc": "1329.32%",
+    "2024-01-05T22:12:36+00:00": {
+        "BlockIO": "999kB \/ 57.3kB",
+        "CPUPerc": "1440.10%",
         "Container": "frankenphp",
-        "ID": "b3ad71c7521c",
-        "MemPerc": "5.53%",
-        "MemUsage": "1.693GiB \/ 30.61GiB",
+        "ID": "6509466a8a5c",
+        "MemPerc": "6.72%",
+        "MemUsage": "2.102GiB \/ 31.25GiB",
         "Name": "frankenphp",
-        "NetIO": "23.3MB \/ 45MB",
-        "PIDs": "42"
+        "NetIO": "28.5MB \/ 55.1MB",
+        "PIDs": "41"
     },
-    "2024-01-03T01:45:47+00:00": {
-        "BlockIO": "0B \/ 28.7kB",
-        "CPUPerc": "1318.78%",
+    "2024-01-05T22:12:37+00:00": {
+        "BlockIO": "999kB \/ 57.3kB",
+        "CPUPerc": "1376.36%",
         "Container": "frankenphp",
-        "ID": "b3ad71c7521c",
-        "MemPerc": "5.57%",
-        "MemUsage": "1.706GiB \/ 30.61GiB",
+        "ID": "6509466a8a5c",
+        "MemPerc": "6.76%",
+        "MemUsage": "2.114GiB \/ 31.25GiB",
         "Name": "frankenphp",
-        "NetIO": "24.5MB \/ 47.4MB",
-        "PIDs": "42"
+        "NetIO": "30.2MB \/ 58.4MB",
+        "PIDs": "41"
     },
-    "2024-01-03T01:45:48+00:00": {
-        "BlockIO": "0B \/ 28.7kB",
-        "CPUPerc": "1387.21%",
+    "2024-01-05T22:12:38+00:00": {
+        "BlockIO": "999kB \/ 57.3kB",
+        "CPUPerc": "1427.85%",
         "Container": "frankenphp",
-        "ID": "b3ad71c7521c",
-        "MemPerc": "5.58%",
-        "MemUsage": "1.707GiB \/ 30.61GiB",
+        "ID": "6509466a8a5c",
+        "MemPerc": "6.82%",
+        "MemUsage": "2.131GiB \/ 31.25GiB",
         "Name": "frankenphp",
-        "NetIO": "25.9MB \/ 50.2MB",
-        "PIDs": "42"
+        "NetIO": "32MB \/ 61.9MB",
+        "PIDs": "41"
     },
-    "2024-01-03T01:45:49+00:00": {
-        "BlockIO": "0B \/ 28.7kB",
-        "CPUPerc": "1329.79%",
+    "2024-01-05T22:12:39+00:00": {
+        "BlockIO": "999kB \/ 57.3kB",
+        "CPUPerc": "1361.59%",
         "Container": "frankenphp",
-        "ID": "b3ad71c7521c",
-        "MemPerc": "6.19%",
-        "MemUsage": "1.895GiB \/ 30.61GiB",
+        "ID": "6509466a8a5c",
+        "MemPerc": "7.71%",
+        "MemUsage": "2.41GiB \/ 31.25GiB",
         "Name": "frankenphp",
-        "NetIO": "27.2MB \/ 52.6MB",
-        "PIDs": "42"
+        "NetIO": "33.7MB \/ 65.2MB",
+        "PIDs": "41"
     },
-    "2024-01-03T01:45:50+00:00": {
-        "BlockIO": "0B \/ 28.7kB",
-        "CPUPerc": "1393.84%",
+    "2024-01-05T22:12:40+00:00": {
+        "BlockIO": "999kB \/ 57.3kB",
+        "CPUPerc": "1449.45%",
         "Container": "frankenphp",
-        "ID": "b3ad71c7521c",
-        "MemPerc": "6.75%",
-        "MemUsage": "2.068GiB \/ 30.61GiB",
+        "ID": "6509466a8a5c",
+        "MemPerc": "8.45%",
+        "MemUsage": "2.642GiB \/ 31.25GiB",
         "Name": "frankenphp",
-        "NetIO": "28.3MB \/ 54.7MB",
-        "PIDs": "42"
+        "NetIO": "35.1MB \/ 67.9MB",
+        "PIDs": "41"
     },
-    "2024-01-03T01:45:51+00:00": {
-        "BlockIO": "0B \/ 28.7kB",
-        "CPUPerc": "1317.17%",
+    "2024-01-05T22:12:41+00:00": {
+        "BlockIO": "999kB \/ 57.3kB",
+        "CPUPerc": "1429.74%",
         "Container": "frankenphp",
-        "ID": "b3ad71c7521c",
-        "MemPerc": "6.86%",
-        "MemUsage": "2.099GiB \/ 30.61GiB",
+        "ID": "6509466a8a5c",
+        "MemPerc": "8.56%",
+        "MemUsage": "2.676GiB \/ 31.25GiB",
         "Name": "frankenphp",
-        "NetIO": "29.5MB \/ 57MB",
-        "PIDs": "42"
+        "NetIO": "36.9MB \/ 71.3MB",
+        "PIDs": "41"
     },
-    "2024-01-03T01:45:52+00:00": {
-        "BlockIO": "0B \/ 28.7kB",
-        "CPUPerc": "1382.55%",
+    "2024-01-05T22:12:42+00:00": {
+        "BlockIO": "999kB \/ 57.3kB",
+        "CPUPerc": "1365.57%",
         "Container": "frankenphp",
-        "ID": "b3ad71c7521c",
-        "MemPerc": "6.86%",
-        "MemUsage": "2.099GiB \/ 30.61GiB",
+        "ID": "6509466a8a5c",
+        "MemPerc": "8.57%",
+        "MemUsage": "2.678GiB \/ 31.25GiB",
         "Name": "frankenphp",
-        "NetIO": "30.9MB \/ 59.8MB",
-        "PIDs": "42"
+        "NetIO": "38.6MB \/ 74.6MB",
+        "PIDs": "41"
     },
-    "2024-01-03T01:45:53+00:00": {
-        "BlockIO": "0B \/ 28.7kB",
-        "CPUPerc": "1365.78%",
+    "2024-01-05T22:12:43+00:00": {
+        "BlockIO": "999kB \/ 57.3kB",
+        "CPUPerc": "1430.41%",
         "Container": "frankenphp",
-        "ID": "b3ad71c7521c",
-        "MemPerc": "6.86%",
-        "MemUsage": "2.1GiB \/ 30.61GiB",
+        "ID": "6509466a8a5c",
+        "MemPerc": "8.57%",
+        "MemUsage": "2.677GiB \/ 31.25GiB",
         "Name": "frankenphp",
-        "NetIO": "32.3MB \/ 62.5MB",
-        "PIDs": "42"
+        "NetIO": "40.4MB \/ 78.1MB",
+        "PIDs": "41"
     },
-    "2024-01-03T01:45:54+00:00": {
-        "BlockIO": "0B \/ 28.7kB",
-        "CPUPerc": "1288.89%",
+    "2024-01-05T22:12:44+00:00": {
+        "BlockIO": "999kB \/ 57.3kB",
+        "CPUPerc": "1338.76%",
         "Container": "frankenphp",
-        "ID": "b3ad71c7521c",
-        "MemPerc": "7.40%",
-        "MemUsage": "2.265GiB \/ 30.61GiB",
+        "ID": "6509466a8a5c",
+        "MemPerc": "9.17%",
+        "MemUsage": "2.867GiB \/ 31.25GiB",
         "Name": "frankenphp",
-        "NetIO": "33.5MB \/ 64.9MB",
-        "PIDs": "42"
+        "NetIO": "42MB \/ 81.3MB",
+        "PIDs": "41"
     },
-    "2024-01-03T01:45:55+00:00": {
-        "BlockIO": "0B \/ 28.7kB",
-        "CPUPerc": "1357.57%",
+    "2024-01-05T22:12:45+00:00": {
+        "BlockIO": "999kB \/ 57.3kB",
+        "CPUPerc": "1429.77%",
         "Container": "frankenphp",
-        "ID": "b3ad71c7521c",
-        "MemPerc": "8.06%",
-        "MemUsage": "2.468GiB \/ 30.61GiB",
+        "ID": "6509466a8a5c",
+        "MemPerc": "10.09%",
+        "MemUsage": "3.154GiB \/ 31.25GiB",
         "Name": "frankenphp",
-        "NetIO": "34.8MB \/ 67.3MB",
-        "PIDs": "42"
+        "NetIO": "43.8MB \/ 84.8MB",
+        "PIDs": "41"
     },
-    "2024-01-03T01:45:56+00:00": {
-        "BlockIO": "0B \/ 28.7kB",
-        "CPUPerc": "1371.11%",
+    "2024-01-05T22:12:46+00:00": {
+        "BlockIO": "999kB \/ 57.3kB",
+        "CPUPerc": "1445.38%",
         "Container": "frankenphp",
-        "ID": "b3ad71c7521c",
-        "MemPerc": "8.54%",
-        "MemUsage": "2.614GiB \/ 30.61GiB",
+        "ID": "6509466a8a5c",
+        "MemPerc": "10.79%",
+        "MemUsage": "3.371GiB \/ 31.25GiB",
         "Name": "frankenphp",
-        "NetIO": "35.7MB \/ 69.1MB",
-        "PIDs": "42"
+        "NetIO": "45.1MB \/ 87.3MB",
+        "PIDs": "41"
     },
-    "2024-01-03T01:45:57+00:00": {
-        "BlockIO": "0B \/ 28.7kB",
-        "CPUPerc": "1381.10%",
+    "2024-01-05T22:12:47+00:00": {
+        "BlockIO": "999kB \/ 57.3kB",
+        "CPUPerc": "1435.16%",
         "Container": "frankenphp",
-        "ID": "b3ad71c7521c",
-        "MemPerc": "8.64%",
-        "MemUsage": "2.643GiB \/ 30.61GiB",
+        "ID": "6509466a8a5c",
+        "MemPerc": "10.93%",
+        "MemUsage": "3.417GiB \/ 31.25GiB",
         "Name": "frankenphp",
-        "NetIO": "36.9MB \/ 71.5MB",
-        "PIDs": "42"
+        "NetIO": "46.8MB \/ 90.6MB",
+        "PIDs": "41"
     },
-    "2024-01-03T01:45:58+00:00": {
-        "BlockIO": "0B \/ 28.7kB",
-        "CPUPerc": "1247.40%",
+    "2024-01-05T22:12:48+00:00": {
+        "BlockIO": "999kB \/ 57.3kB",
+        "CPUPerc": "1316.40%",
         "Container": "frankenphp",
-        "ID": "b3ad71c7521c",
-        "MemPerc": "8.64%",
-        "MemUsage": "2.644GiB \/ 30.61GiB",
+        "ID": "6509466a8a5c",
+        "MemPerc": "11.02%",
+        "MemUsage": "3.442GiB \/ 31.25GiB",
         "Name": "frankenphp",
-        "NetIO": "38.3MB \/ 74.1MB",
-        "PIDs": "42"
+        "NetIO": "48.5MB \/ 93.7MB",
+        "PIDs": "41"
     },
-    "2024-01-03T01:45:59+00:00": {
-        "BlockIO": "0B \/ 28.7kB",
-        "CPUPerc": "14.29%",
+    "2024-01-05T22:12:49+00:00": {
+        "BlockIO": "999kB \/ 57.3kB",
+        "CPUPerc": "1185.78%",
         "Container": "frankenphp",
-        "ID": "b3ad71c7521c",
-        "MemPerc": "8.63%",
-        "MemUsage": "2.643GiB \/ 30.61GiB",
+        "ID": "6509466a8a5c",
+        "MemPerc": "11.02%",
+        "MemUsage": "3.444GiB \/ 31.25GiB",
         "Name": "frankenphp",
-        "NetIO": "38.3MB \/ 74.1MB",
-        "PIDs": "42"
+        "NetIO": "49.9MB \/ 96.6MB",
+        "PIDs": "41"
     }
 }

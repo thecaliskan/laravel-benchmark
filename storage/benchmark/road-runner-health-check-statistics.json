@@ -1,332 +1,332 @@
 {
-    "2024-01-03T01:43:40+00:00": {
-        "BlockIO": "0B \/ 12.3kB",
-        "CPUPerc": "1522.97%",
+    "2024-01-05T22:10:30+00:00": {
+        "BlockIO": "1.2MB \/ 4.1kB",
+        "CPUPerc": "1440.48%",
         "Container": "roadrunner",
-        "ID": "dd32bbb7ad25",
-        "MemPerc": "1.35%",
-        "MemUsage": "423.9MiB \/ 30.61GiB",
+        "ID": "b187776ee2b6",
+        "MemPerc": "1.25%",
+        "MemUsage": "400.4MiB \/ 31.25GiB",
         "Name": "roadrunner",
-        "NetIO": "1.85MB \/ 2.95MB",
+        "NetIO": "2.12MB \/ 3.39MB",
         "PIDs": "56"
     },
-    "2024-01-03T01:43:41+00:00": {
-        "BlockIO": "0B \/ 12.3kB",
-        "CPUPerc": "1531.06%",
+    "2024-01-05T22:10:31+00:00": {
+        "BlockIO": "1.2MB \/ 4.1kB",
+        "CPUPerc": "1419.60%",
         "Container": "roadrunner",
-        "ID": "dd32bbb7ad25",
+        "ID": "b187776ee2b6",
+        "MemPerc": "1.25%",
+        "MemUsage": "400.7MiB \/ 31.25GiB",
+        "Name": "roadrunner",
+        "NetIO": "3.27MB \/ 5.25MB",
+        "PIDs": "56"
+    },
+    "2024-01-05T22:10:32+00:00": {
+        "BlockIO": "1.2MB \/ 4.1kB",
+        "CPUPerc": "1417.00%",
+        "Container": "roadrunner",
+        "ID": "b187776ee2b6",
+        "MemPerc": "1.24%",
+        "MemUsage": "396.5MiB \/ 31.25GiB",
+        "Name": "roadrunner",
+        "NetIO": "4.41MB \/ 7.1MB",
+        "PIDs": "56"
+    },
+    "2024-01-05T22:10:33+00:00": {
+        "BlockIO": "1.2MB \/ 4.1kB",
+        "CPUPerc": "1420.43%",
+        "Container": "roadrunner",
+        "ID": "b187776ee2b6",
+        "MemPerc": "1.24%",
+        "MemUsage": "398.1MiB \/ 31.25GiB",
+        "Name": "roadrunner",
+        "NetIO": "5.56MB \/ 8.95MB",
+        "PIDs": "56"
+    },
+    "2024-01-05T22:10:34+00:00": {
+        "BlockIO": "1.2MB \/ 4.1kB",
+        "CPUPerc": "1418.05%",
+        "Container": "roadrunner",
+        "ID": "b187776ee2b6",
+        "MemPerc": "1.25%",
+        "MemUsage": "399.2MiB \/ 31.25GiB",
+        "Name": "roadrunner",
+        "NetIO": "6.7MB \/ 10.8MB",
+        "PIDs": "56"
+    },
+    "2024-01-05T22:10:35+00:00": {
+        "BlockIO": "1.2MB \/ 4.1kB",
+        "CPUPerc": "1418.93%",
+        "Container": "roadrunner",
+        "ID": "b187776ee2b6",
+        "MemPerc": "1.14%",
+        "MemUsage": "364.5MiB \/ 31.25GiB",
+        "Name": "roadrunner",
+        "NetIO": "7.83MB \/ 12.6MB",
+        "PIDs": "56"
+    },
+    "2024-01-05T22:10:36+00:00": {
+        "BlockIO": "1.2MB \/ 4.1kB",
+        "CPUPerc": "1438.83%",
+        "Container": "roadrunner",
+        "ID": "b187776ee2b6",
+        "MemPerc": "1.10%",
+        "MemUsage": "351MiB \/ 31.25GiB",
+        "Name": "roadrunner",
+        "NetIO": "8.84MB \/ 14.3MB",
+        "PIDs": "57"
+    },
+    "2024-01-05T22:10:37+00:00": {
+        "BlockIO": "1.2MB \/ 4.1kB",
+        "CPUPerc": "1429.09%",
+        "Container": "roadrunner",
+        "ID": "b187776ee2b6",
         "MemPerc": "1.30%",
-        "MemUsage": "407.4MiB \/ 30.61GiB",
+        "MemUsage": "417.2MiB \/ 31.25GiB",
         "Name": "roadrunner",
-        "NetIO": "2.82MB \/ 4.52MB",
-        "PIDs": "56"
+        "NetIO": "9.94MB \/ 16.1MB",
+        "PIDs": "57"
     },
-    "2024-01-03T01:43:42+00:00": {
-        "BlockIO": "0B \/ 12.3kB",
-        "CPUPerc": "1511.48%",
+    "2024-01-05T22:10:38+00:00": {
+        "BlockIO": "1.2MB \/ 4.1kB",
+        "CPUPerc": "1422.35%",
         "Container": "roadrunner",
-        "ID": "dd32bbb7ad25",
-        "MemPerc": "1.33%",
-        "MemUsage": "417.3MiB \/ 30.61GiB",
+        "ID": "b187776ee2b6",
+        "MemPerc": "1.30%",
+        "MemUsage": "416.9MiB \/ 31.25GiB",
         "Name": "roadrunner",
-        "NetIO": "3.76MB \/ 6.04MB",
-        "PIDs": "56"
+        "NetIO": "11.1MB \/ 17.9MB",
+        "PIDs": "57"
     },
-    "2024-01-03T01:43:43+00:00": {
-        "BlockIO": "0B \/ 12.3kB",
-        "CPUPerc": "1520.67%",
+    "2024-01-05T22:10:39+00:00": {
+        "BlockIO": "1.2MB \/ 4.1kB",
+        "CPUPerc": "1411.92%",
         "Container": "roadrunner",
-        "ID": "dd32bbb7ad25",
-        "MemPerc": "1.36%",
-        "MemUsage": "427.7MiB \/ 30.61GiB",
+        "ID": "b187776ee2b6",
+        "MemPerc": "1.30%",
+        "MemUsage": "416.6MiB \/ 31.25GiB",
         "Name": "roadrunner",
-        "NetIO": "4.72MB \/ 7.58MB",
-        "PIDs": "56"
+        "NetIO": "12.2MB \/ 19.8MB",
+        "PIDs": "57"
     },
-    "2024-01-03T01:43:44+00:00": {
-        "BlockIO": "0B \/ 12.3kB",
-        "CPUPerc": "1507.34%",
+    "2024-01-05T22:10:40+00:00": {
+        "BlockIO": "1.2MB \/ 4.1kB",
+        "CPUPerc": "1418.98%",
         "Container": "roadrunner",
-        "ID": "dd32bbb7ad25",
-        "MemPerc": "1.34%",
-        "MemUsage": "418.9MiB \/ 30.61GiB",
+        "ID": "b187776ee2b6",
+        "MemPerc": "1.30%",
+        "MemUsage": "417.1MiB \/ 31.25GiB",
         "Name": "roadrunner",
-        "NetIO": "5.65MB \/ 9.07MB",
-        "PIDs": "56"
+        "NetIO": "13.4MB \/ 21.6MB",
+        "PIDs": "57"
     },
-    "2024-01-03T01:43:45+00:00": {
-        "BlockIO": "0B \/ 12.3kB",
-        "CPUPerc": "1514.86%",
+    "2024-01-05T22:10:41+00:00": {
+        "BlockIO": "1.2MB \/ 4.1kB",
+        "CPUPerc": "1428.63%",
         "Container": "roadrunner",
-        "ID": "dd32bbb7ad25",
-        "MemPerc": "1.35%",
-        "MemUsage": "424.3MiB \/ 30.61GiB",
+        "ID": "b187776ee2b6",
+        "MemPerc": "1.28%",
+        "MemUsage": "409.7MiB \/ 31.25GiB",
         "Name": "roadrunner",
-        "NetIO": "6.58MB \/ 10.6MB",
-        "PIDs": "56"
+        "NetIO": "14.5MB \/ 23.5MB",
+        "PIDs": "57"
     },
-    "2024-01-03T01:43:46+00:00": {
-        "BlockIO": "0B \/ 12.3kB",
-        "CPUPerc": "1507.39%",
+    "2024-01-05T22:10:42+00:00": {
+        "BlockIO": "1.2MB \/ 4.1kB",
+        "CPUPerc": "1428.26%",
         "Container": "roadrunner",
-        "ID": "dd32bbb7ad25",
-        "MemPerc": "1.33%",
-        "MemUsage": "417.1MiB \/ 30.61GiB",
+        "ID": "b187776ee2b6",
+        "MemPerc": "1.13%",
+        "MemUsage": "361.5MiB \/ 31.25GiB",
         "Name": "roadrunner",
-        "NetIO": "7.54MB \/ 12.1MB",
-        "PIDs": "56"
+        "NetIO": "15.6MB \/ 25.3MB",
+        "PIDs": "57"
     },
-    "2024-01-03T01:43:47+00:00": {
-        "BlockIO": "0B \/ 12.3kB",
-        "CPUPerc": "1527.50%",
+    "2024-01-05T22:10:43+00:00": {
+        "BlockIO": "1.2MB \/ 4.1kB",
+        "CPUPerc": "1445.96%",
         "Container": "roadrunner",
-        "ID": "dd32bbb7ad25",
-        "MemPerc": "1.33%",
-        "MemUsage": "418MiB \/ 30.61GiB",
+        "ID": "b187776ee2b6",
+        "MemPerc": "1.16%",
+        "MemUsage": "372.7MiB \/ 31.25GiB",
         "Name": "roadrunner",
-        "NetIO": "8.49MB \/ 13.6MB",
-        "PIDs": "56"
+        "NetIO": "16.7MB \/ 26.9MB",
+        "PIDs": "57"
     },
-    "2024-01-03T01:43:48+00:00": {
-        "BlockIO": "0B \/ 12.3kB",
-        "CPUPerc": "1502.58%",
+    "2024-01-05T22:10:44+00:00": {
+        "BlockIO": "1.2MB \/ 4.1kB",
+        "CPUPerc": "1424.38%",
         "Container": "roadrunner",
-        "ID": "dd32bbb7ad25",
+        "ID": "b187776ee2b6",
+        "MemPerc": "1.30%",
+        "MemUsage": "415.8MiB \/ 31.25GiB",
+        "Name": "roadrunner",
+        "NetIO": "17.8MB \/ 28.7MB",
+        "PIDs": "57"
+    },
+    "2024-01-05T22:10:45+00:00": {
+        "BlockIO": "1.2MB \/ 4.1kB",
+        "CPUPerc": "1420.56%",
+        "Container": "roadrunner",
+        "ID": "b187776ee2b6",
+        "MemPerc": "1.30%",
+        "MemUsage": "415.9MiB \/ 31.25GiB",
+        "Name": "roadrunner",
+        "NetIO": "18.9MB \/ 30.6MB",
+        "PIDs": "57"
+    },
+    "2024-01-05T22:10:46+00:00": {
+        "BlockIO": "1.2MB \/ 4.1kB",
+        "CPUPerc": "1416.81%",
+        "Container": "roadrunner",
+        "ID": "b187776ee2b6",
         "MemPerc": "1.32%",
-        "MemUsage": "413.1MiB \/ 30.61GiB",
+        "MemUsage": "421.1MiB \/ 31.25GiB",
         "Name": "roadrunner",
-        "NetIO": "9.44MB \/ 15.2MB",
-        "PIDs": "56"
+        "NetIO": "20.1MB \/ 32.4MB",
+        "PIDs": "57"
     },
-    "2024-01-03T01:43:49+00:00": {
-        "BlockIO": "0B \/ 12.3kB",
-        "CPUPerc": "1485.41%",
+    "2024-01-05T22:10:47+00:00": {
+        "BlockIO": "1.2MB \/ 4.1kB",
+        "CPUPerc": "1425.34%",
         "Container": "roadrunner",
-        "ID": "dd32bbb7ad25",
+        "ID": "b187776ee2b6",
+        "MemPerc": "1.27%",
+        "MemUsage": "406.6MiB \/ 31.25GiB",
+        "Name": "roadrunner",
+        "NetIO": "21.2MB \/ 34.2MB",
+        "PIDs": "57"
+    },
+    "2024-01-05T22:10:48+00:00": {
+        "BlockIO": "1.2MB \/ 4.1kB",
+        "CPUPerc": "1426.21%",
+        "Container": "roadrunner",
+        "ID": "b187776ee2b6",
+        "MemPerc": "1.20%",
+        "MemUsage": "382.5MiB \/ 31.25GiB",
+        "Name": "roadrunner",
+        "NetIO": "22.4MB \/ 36.1MB",
+        "PIDs": "57"
+    },
+    "2024-01-05T22:10:49+00:00": {
+        "BlockIO": "1.2MB \/ 4.1kB",
+        "CPUPerc": "1432.30%",
+        "Container": "roadrunner",
+        "ID": "b187776ee2b6",
+        "MemPerc": "0.98%",
+        "MemUsage": "312.3MiB \/ 31.25GiB",
+        "Name": "roadrunner",
+        "NetIO": "23.5MB \/ 37.8MB",
+        "PIDs": "57"
+    },
+    "2024-01-05T22:10:50+00:00": {
+        "BlockIO": "1.2MB \/ 4.1kB",
+        "CPUPerc": "1437.60%",
+        "Container": "roadrunner",
+        "ID": "b187776ee2b6",
+        "MemPerc": "1.19%",
+        "MemUsage": "381MiB \/ 31.25GiB",
+        "Name": "roadrunner",
+        "NetIO": "24.5MB \/ 39.5MB",
+        "PIDs": "57"
+    },
+    "2024-01-05T22:10:51+00:00": {
+        "BlockIO": "1.2MB \/ 4.1kB",
+        "CPUPerc": "1420.95%",
+        "Container": "roadrunner",
+        "ID": "b187776ee2b6",
         "MemPerc": "1.30%",
-        "MemUsage": "407.3MiB \/ 30.61GiB",
+        "MemUsage": "416MiB \/ 31.25GiB",
         "Name": "roadrunner",
-        "NetIO": "10.4MB \/ 16.7MB",
-        "PIDs": "56"
+        "NetIO": "25.6MB \/ 41.3MB",
+        "PIDs": "57"
     },
-    "2024-01-03T01:43:50+00:00": {
-        "BlockIO": "0B \/ 12.3kB",
-        "CPUPerc": "1524.87%",
+    "2024-01-05T22:10:52+00:00": {
+        "BlockIO": "1.2MB \/ 4.1kB",
+        "CPUPerc": "1427.90%",
         "Container": "roadrunner",
-        "ID": "dd32bbb7ad25",
-        "MemPerc": "1.33%",
-        "MemUsage": "417.9MiB \/ 30.61GiB",
+        "ID": "b187776ee2b6",
+        "MemPerc": "1.30%",
+        "MemUsage": "416MiB \/ 31.25GiB",
         "Name": "roadrunner",
-        "NetIO": "11.3MB \/ 18.2MB",
-        "PIDs": "56"
+        "NetIO": "26.8MB \/ 43.2MB",
+        "PIDs": "57"
     },
-    "2024-01-03T01:43:51+00:00": {
-        "BlockIO": "0B \/ 12.3kB",
-        "CPUPerc": "1542.80%",
+    "2024-01-05T22:10:53+00:00": {
+        "BlockIO": "1.2MB \/ 4.1kB",
+        "CPUPerc": "1428.15%",
         "Container": "roadrunner",
-        "ID": "dd32bbb7ad25",
-        "MemPerc": "1.36%",
-        "MemUsage": "427.6MiB \/ 30.61GiB",
+        "ID": "b187776ee2b6",
+        "MemPerc": "1.29%",
+        "MemUsage": "412.6MiB \/ 31.25GiB",
         "Name": "roadrunner",
-        "NetIO": "12.3MB \/ 19.7MB",
-        "PIDs": "56"
+        "NetIO": "27.9MB \/ 45MB",
+        "PIDs": "57"
     },
-    "2024-01-03T01:43:52+00:00": {
-        "BlockIO": "0B \/ 12.3kB",
-        "CPUPerc": "1520.20%",
+    "2024-01-05T22:10:54+00:00": {
+        "BlockIO": "1.2MB \/ 4.1kB",
+        "CPUPerc": "1407.40%",
         "Container": "roadrunner",
-        "ID": "dd32bbb7ad25",
-        "MemPerc": "1.36%",
-        "MemUsage": "427.5MiB \/ 30.61GiB",
+        "ID": "b187776ee2b6",
+        "MemPerc": "1.30%",
+        "MemUsage": "416.3MiB \/ 31.25GiB",
         "Name": "roadrunner",
-        "NetIO": "13.2MB \/ 21.3MB",
-        "PIDs": "56"
+        "NetIO": "29.1MB \/ 46.8MB",
+        "PIDs": "57"
     },
-    "2024-01-03T01:43:53+00:00": {
-        "BlockIO": "0B \/ 12.3kB",
-        "CPUPerc": "1523.55%",
+    "2024-01-05T22:10:55+00:00": {
+        "BlockIO": "1.2MB \/ 4.1kB",
+        "CPUPerc": "1432.91%",
         "Container": "roadrunner",
-        "ID": "dd32bbb7ad25",
-        "MemPerc": "1.41%",
-        "MemUsage": "442.1MiB \/ 30.61GiB",
+        "ID": "b187776ee2b6",
+        "MemPerc": "1.20%",
+        "MemUsage": "384.5MiB \/ 31.25GiB",
         "Name": "roadrunner",
-        "NetIO": "14.2MB \/ 22.8MB",
-        "PIDs": "56"
+        "NetIO": "30.2MB \/ 48.7MB",
+        "PIDs": "57"
     },
-    "2024-01-03T01:43:54+00:00": {
-        "BlockIO": "0B \/ 12.3kB",
-        "CPUPerc": "1544.77%",
+    "2024-01-05T22:10:56+00:00": {
+        "BlockIO": "1.2MB \/ 4.1kB",
+        "CPUPerc": "1426.02%",
         "Container": "roadrunner",
-        "ID": "dd32bbb7ad25",
-        "MemPerc": "1.39%",
-        "MemUsage": "435.5MiB \/ 30.61GiB",
+        "ID": "b187776ee2b6",
+        "MemPerc": "1.00%",
+        "MemUsage": "321.5MiB \/ 31.25GiB",
         "Name": "roadrunner",
-        "NetIO": "15.1MB \/ 24.3MB",
-        "PIDs": "58"
+        "NetIO": "31.3MB \/ 50.4MB",
+        "PIDs": "57"
     },
-    "2024-01-03T01:43:55+00:00": {
-        "BlockIO": "0B \/ 12.3kB",
-        "CPUPerc": "1515.43%",
+    "2024-01-05T22:10:57+00:00": {
+        "BlockIO": "1.2MB \/ 4.1kB",
+        "CPUPerc": "1446.29%",
         "Container": "roadrunner",
-        "ID": "dd32bbb7ad25",
-        "MemPerc": "1.39%",
-        "MemUsage": "434.8MiB \/ 30.61GiB",
+        "ID": "b187776ee2b6",
+        "MemPerc": "1.26%",
+        "MemUsage": "403.3MiB \/ 31.25GiB",
         "Name": "roadrunner",
-        "NetIO": "16.1MB \/ 25.8MB",
-        "PIDs": "58"
+        "NetIO": "32.3MB \/ 52.1MB",
+        "PIDs": "57"
     },
-    "2024-01-03T01:43:56+00:00": {
-        "BlockIO": "0B \/ 12.3kB",
-        "CPUPerc": "1527.40%",
+    "2024-01-05T22:10:58+00:00": {
+        "BlockIO": "1.2MB \/ 4.1kB",
+        "CPUPerc": "1429.29%",
         "Container": "roadrunner",
-        "ID": "dd32bbb7ad25",
-        "MemPerc": "1.45%",
-        "MemUsage": "454MiB \/ 30.61GiB",
+        "ID": "b187776ee2b6",
+        "MemPerc": "1.30%",
+        "MemUsage": "416.4MiB \/ 31.25GiB",
         "Name": "roadrunner",
-        "NetIO": "17MB \/ 27.3MB",
-        "PIDs": "58"
+        "NetIO": "33.5MB \/ 54MB",
+        "PIDs": "57"
     },
-    "2024-01-03T01:43:57+00:00": {
-        "BlockIO": "0B \/ 12.3kB",
-        "CPUPerc": "1496.61%",
+    "2024-01-05T22:10:59+00:00": {
+        "BlockIO": "1.2MB \/ 4.1kB",
+        "CPUPerc": "52.94%",
         "Container": "roadrunner",
-        "ID": "dd32bbb7ad25",
-        "MemPerc": "1.44%",
-        "MemUsage": "452.7MiB \/ 30.61GiB",
+        "ID": "b187776ee2b6",
+        "MemPerc": "1.30%",
+        "MemUsage": "415.7MiB \/ 31.25GiB",
         "Name": "roadrunner",
-        "NetIO": "17.9MB \/ 28.8MB",
-        "PIDs": "58"
-    },
-    "2024-01-03T01:43:58+00:00": {
-        "BlockIO": "0B \/ 12.3kB",
-        "CPUPerc": "1493.94%",
-        "Container": "roadrunner",
-        "ID": "dd32bbb7ad25",
-        "MemPerc": "1.45%",
-        "MemUsage": "454.9MiB \/ 30.61GiB",
-        "Name": "roadrunner",
-        "NetIO": "18.9MB \/ 30.3MB",
-        "PIDs": "58"
-    },
-    "2024-01-03T01:43:59+00:00": {
-        "BlockIO": "0B \/ 12.3kB",
-        "CPUPerc": "1522.90%",
-        "Container": "roadrunner",
-        "ID": "dd32bbb7ad25",
-        "MemPerc": "1.46%",
-        "MemUsage": "456.4MiB \/ 30.61GiB",
-        "Name": "roadrunner",
-        "NetIO": "19.8MB \/ 31.8MB",
-        "PIDs": "58"
-    },
-    "2024-01-03T01:44:00+00:00": {
-        "BlockIO": "0B \/ 12.3kB",
-        "CPUPerc": "1514.88%",
-        "Container": "roadrunner",
-        "ID": "dd32bbb7ad25",
-        "MemPerc": "1.42%",
-        "MemUsage": "443.6MiB \/ 30.61GiB",
-        "Name": "roadrunner",
-        "NetIO": "20.7MB \/ 33.4MB",
-        "PIDs": "58"
-    },
-    "2024-01-03T01:44:01+00:00": {
-        "BlockIO": "0B \/ 12.3kB",
-        "CPUPerc": "1543.34%",
-        "Container": "roadrunner",
-        "ID": "dd32bbb7ad25",
-        "MemPerc": "1.37%",
-        "MemUsage": "430.4MiB \/ 30.61GiB",
-        "Name": "roadrunner",
-        "NetIO": "21.7MB \/ 34.9MB",
-        "PIDs": "58"
-    },
-    "2024-01-03T01:44:02+00:00": {
-        "BlockIO": "0B \/ 12.3kB",
-        "CPUPerc": "1531.68%",
-        "Container": "roadrunner",
-        "ID": "dd32bbb7ad25",
-        "MemPerc": "1.41%",
-        "MemUsage": "440.7MiB \/ 30.61GiB",
-        "Name": "roadrunner",
-        "NetIO": "22.7MB \/ 36.4MB",
-        "PIDs": "58"
-    },
-    "2024-01-03T01:44:03+00:00": {
-        "BlockIO": "0B \/ 12.3kB",
-        "CPUPerc": "1541.25%",
-        "Container": "roadrunner",
-        "ID": "dd32bbb7ad25",
-        "MemPerc": "1.45%",
-        "MemUsage": "455.1MiB \/ 30.61GiB",
-        "Name": "roadrunner",
-        "NetIO": "23.6MB \/ 37.9MB",
-        "PIDs": "58"
-    },
-    "2024-01-03T01:44:04+00:00": {
-        "BlockIO": "0B \/ 12.3kB",
-        "CPUPerc": "1533.96%",
-        "Container": "roadrunner",
-        "ID": "dd32bbb7ad25",
-        "MemPerc": "1.38%",
-        "MemUsage": "431.4MiB \/ 30.61GiB",
-        "Name": "roadrunner",
-        "NetIO": "24.6MB \/ 39.5MB",
-        "PIDs": "58"
-    },
-    "2024-01-03T01:44:05+00:00": {
-        "BlockIO": "0B \/ 12.3kB",
-        "CPUPerc": "1534.87%",
-        "Container": "roadrunner",
-        "ID": "dd32bbb7ad25",
-        "MemPerc": "1.44%",
-        "MemUsage": "450.3MiB \/ 30.61GiB",
-        "Name": "roadrunner",
-        "NetIO": "25.5MB \/ 41MB",
-        "PIDs": "58"
-    },
-    "2024-01-03T01:44:06+00:00": {
-        "BlockIO": "0B \/ 12.3kB",
-        "CPUPerc": "1532.60%",
-        "Container": "roadrunner",
-        "ID": "dd32bbb7ad25",
-        "MemPerc": "1.45%",
-        "MemUsage": "454.6MiB \/ 30.61GiB",
-        "Name": "roadrunner",
-        "NetIO": "26.4MB \/ 42.5MB",
-        "PIDs": "58"
-    },
-    "2024-01-03T01:44:07+00:00": {
-        "BlockIO": "0B \/ 12.3kB",
-        "CPUPerc": "1517.78%",
-        "Container": "roadrunner",
-        "ID": "dd32bbb7ad25",
-        "MemPerc": "1.38%",
-        "MemUsage": "432.6MiB \/ 30.61GiB",
-        "Name": "roadrunner",
-        "NetIO": "27.4MB \/ 44.1MB",
-        "PIDs": "58"
-    },
-    "2024-01-03T01:44:08+00:00": {
-        "BlockIO": "0B \/ 12.3kB",
-        "CPUPerc": "1326.81%",
-        "Container": "roadrunner",
-        "ID": "dd32bbb7ad25",
-        "MemPerc": "1.44%",
-        "MemUsage": "451MiB \/ 30.61GiB",
-        "Name": "roadrunner",
-        "NetIO": "28.3MB \/ 45.4MB",
-        "PIDs": "58"
-    },
-    "2024-01-03T01:44:09+00:00": {
-        "BlockIO": "0B \/ 12.3kB",
-        "CPUPerc": "0.50%",
-        "Container": "roadrunner",
-        "ID": "dd32bbb7ad25",
-        "MemPerc": "1.44%",
-        "MemUsage": "450.7MiB \/ 30.61GiB",
-        "Name": "roadrunner",
-        "NetIO": "28.3MB \/ 45.4MB",
-        "PIDs": "58"
+        "NetIO": "33.6MB \/ 54.1MB",
+        "PIDs": "57"
     }
 }

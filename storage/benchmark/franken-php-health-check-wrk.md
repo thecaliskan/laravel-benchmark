@@ -1,13 +1,13 @@
 Running 30s test @ http://127.0.0.1:9804/api/health-check
   16 threads and 100 connections
   Thread Stats   Avg      Stdev     Max   +/- Stdev
-    Latency    10.07ms    9.63ms 199.74ms   96.87%
-    Req/Sec   657.19    129.86     3.47k    82.03%
+    Latency     7.83ms    9.14ms 199.14ms   98.03%
+    Req/Sec     0.86k   116.87     1.07k    80.69%
   Latency Distribution
-     50%    8.62ms
-     75%   10.34ms
-     90%   13.22ms
-     99%   44.64ms
-  313311 requests in 30.10s, 50.80MB read
-Requests/sec:  10408.93
-Transfer/sec:      1.69MB
+     50%    6.60ms
+     75%    7.53ms
+     90%    9.17ms
+     99%   36.15ms
+  408797 requests in 30.02s, 66.28MB read
+Requests/sec:  13616.30
+Transfer/sec:      2.21MB
